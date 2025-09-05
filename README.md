@@ -31,4 +31,4 @@ If you have any questions, feel free to contact me at wooyeol0519@snu.ac.kr
 
 ## 🙏 Acknowledgments
 
-This work is based on original research and code by [limuloo] at [MIGC](https://github.com/limuloo/MIGC), [stable diffusion](https://arxiv.org/abs/2304.08818), and [diffusers](https://github.com/huggingface/diffusers/) library by Hugging Face.
+This work is based on original research and code of [MIGC](https://github.com/limuloo/MIGC) by ReLER Lab, [stable diffusion](https://arxiv.org/abs/2304.08818), and [diffusers](https://github.com/huggingface/diffusers/) library by Hugging Face. I appreciate their contributions to the open-source community.
